@@ -1,0 +1,38 @@
+schema-version: 1.0
+
+
+builders:
+  - libtirpc
+  - gawk
+  - linux-headers
+  - unzip
+  - tcl
+  - m4
+  - xz
+  - pkg-config
+  - file
+  - bzip2
+  - zlib
+  - bc
+  - gettext
+  - expat
+  - texinfo
+  - perl
+  - attr
+  - libcap
+  - bash
+  - diffutils
+  - findutils
+  - grep
+  - gzip
+  - make
+  - patch
+  - tar
+  - shadow
+  - gdbm
+  - inetutils
+  - less
+  - libarchive
+  - libtasn1
+  - libunistring
+
