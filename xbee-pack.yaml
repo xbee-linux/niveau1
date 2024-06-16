@@ -1,6 +1,5 @@
 schema-version: 1.0
 
-
 builders:
   - libtirpc
   - gawk
@@ -27,7 +26,6 @@ builders:
   - gzip
   - make
   - patch
-  - tar
   - shadow
   - gdbm
   - inetutils
