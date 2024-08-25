@@ -33,4 +33,6 @@ builders:
   - libarchive
   - libtasn1
   - libunistring
+  - libxml2
+  - sqlite
 
