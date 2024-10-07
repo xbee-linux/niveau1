@@ -1,6 +1,8 @@
 schema-version: 1.0
 
 builder:
+  - netcat
+  - nmap
   - libtirpc
   - gawk
   - linux-headers
